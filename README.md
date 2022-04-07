@@ -1,2 +1,4 @@
 # docker-images
-docker images for work and for remembering useful features
+Repository is used for storing Docker files for work and for remembering useful features
+
+**alpineOracleJDK**
