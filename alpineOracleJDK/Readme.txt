@@ -1,0 +1,1 @@
+docker image build ./ --tag jdk8-alpine3.8:8.301.09
